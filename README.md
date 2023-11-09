@@ -22,7 +22,6 @@ Continuous Improvement: Maintained and updated the model with new data to adapt 
 
 Results: The project provided valuable insights for making informed investment decisions. The integrated model's predictions were used for backtesting trading strategies, and the project contributed to enhancing decision-making processes.
 
-User Interface: Developed a user-friendly interface for accessing predictions and insights, providing a user-friendly experience for project stakeholders.
 
 This project showcased my ability to work with complex financial data, employ machine learning and NLP techniques, and integrate diverse data sources to solve real-world problems in the finance domain. It demonstrated my skills in data analysis, modeling, and effective communication of results to support informed investment strategies.
 
